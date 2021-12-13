@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="NavigationBar">
+        <attr name="navigation_status" format="integer"/>
+    </declare-styleable>
+</resources>

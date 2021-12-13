@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="navigation_bar_height">65dp</dimen>
+    <dimen name="navigation_bar_height_shorter">52dp</dimen>
+    <dimen name="search_bar_height">30dp</dimen>
+</resources>
